@@ -1,6 +1,15 @@
 # :wave: Getting started with git, Github, and Codespaces
 
-## 🤓 Course overview and learning outcomes 
+Welcome to our Data Analysis in Finance course! This first lab is to just get you more comfortable using a modern computer environment. Out goals:
+
+1. Set-up a Github account.
+2. Log into Moodle and find this lab. If you're here, you've done that!
+
+
+
+
+
+## Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
