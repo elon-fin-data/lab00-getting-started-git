@@ -4,7 +4,8 @@ Welcome to our Data Analysis in Finance course! This first lab is to just get yo
 
 1. Set-up a Github account.
 2. Log into Moodle and find this lab. If you're here, you've done that!
-
+3. Learn about git and Github. The notes below are from a Github course on using both. We'll just need the basics, but these tools are ubiquitous.
+4. Learn about Github codespaces. We'll create a file, make some changes, and get use to how we'll submit work.
 
 
 
