@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: Getting started with git, Github, and Codespaces
 
 ## 🤓 Course overview and learning outcomes 
 
