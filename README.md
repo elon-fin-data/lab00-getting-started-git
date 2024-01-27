@@ -3,9 +3,12 @@
 Welcome to our Data Analysis in Finance course! This first lab is to just get you more comfortable using a modern computer environment. Out goals:
 
 1. Set-up a Github account.
-2. Log into Moodle and find this lab. If you're here, you've done that!
+2. Log into Moodle and find this lab.
+
+If you're here, you've done both of these!
+
 3. Learn about git and Github. The notes below are from a Github course on using both. We'll just need the basics, but these tools are ubiquitous.
-4. Learn about Github codespaces. We'll create a file, make some changes, and get use to how we'll submit work. We'll also see some Markdown, which is how we're going to format our written work, like this document.
+4. Learn about Github codespaces. We'll create a file, make some changes, and see how we'll submit work. We'll also see some **Markdown**, which is how we're going to format our written work, like this document.
 
 
 ## :octocat: Git and GitHub
@@ -92,13 +95,11 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
 
-## 📝 Optional next steps 
+## 📝 Next Steps
 
-* Open a pull request and let your teacher know that you’ve finished this course.  
-* Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
+* Create a **new markdown file in this repository**. Repositories are where your files live. Markdown is a way to do text. Using Github Classroom, I can see all of the repositories that you **fork** from the course.
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-* Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
-* [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
+* Go to your user dashboard and **create a new repository** that is **not** part of the Github Classroom. This one will be all your own. Experiment with the features within that repository to familiarize yourself with them. 
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
