@@ -2,13 +2,15 @@
 
 Welcome to our Data Analysis in Finance course! This first lab is to just get you more comfortable using a modern computer environment. Out goals:
 
-1. Set-up a Github account.
-2. Log into Moodle and find this lab.
+1. **Set-up a Github account**. Use your Elon email address, so that you can get free access to thinks like Google Copilot.
 
-If you're here, you've done both of these!
+2. Go to your main Github page and **create a Readme.md file**. We can start learning some [Markdown](https://www.markdownguide.org/basic-syntax/). Add a basic bio about yourself. Here's my "student" page - <https://github.com/aaiken1student/>
 
-3. Learn about git and Github. The notes below are from a Github course on using both. We'll just need the basics, but these tools are ubiquitous.
-4. Learn about Github codespaces. We'll create a file, make some changes, and see how we'll submit work. We'll also see some **Markdown**, which is how we're going to format our written work, like this document.
+3. Log into Moodle and find this lab.
+
+4. Learn about **git and Github**. The notes below are from a Github course on using both. We'll just need the basics, but these tools are ubiquitous.
+
+5. Learn about Github codespaces. Create a **Jupyter Notebook** and get the Codespace for this lab set-up. **Add some extensions**. These will be there everytime you open up this particular Codespace. Then, add/commit/push your file to the main branch of this repository. 
 
 
 ## :octocat: Git and GitHub
