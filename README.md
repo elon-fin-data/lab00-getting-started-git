@@ -15,7 +15,9 @@ Welcome to our Data Analysis in Finance course! This first lab is to just get yo
 Some helpful links:
 
 [Codespace Basics](https://docs.github.com/en/codespaces/developing-in-a-codespace/developing-in-a-codespace)
+
 [Opening an existing Codespace](https://docs.github.com/en/codespaces/developing-in-a-codespace/opening-an-existing-codespace)
+
 [Deleting Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/deleting-a-codespace)
 
 
