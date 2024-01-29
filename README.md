@@ -10,7 +10,13 @@ Welcome to our Data Analysis in Finance course! This first lab is to just get yo
 
 4. Learn about **git and Github**. The notes below are from a Github course on using both. We'll just need the basics, but these tools are ubiquitous.
 
-5. Learn about Github codespaces. Create a **Jupyter Notebook** and get the Codespace for this lab set-up. **Add some extensions**. These will be there everytime you open up this particular Codespace. Then, add/commit/push your file to the main branch of this repository. 
+5. Learn about **Github Codespaces**. Create a **Jupyter Notebook** and get the Codespace for this lab set-up. **Add some extensions**. These will be there everytime you open up this particular Codespace. Then, add/commit/push your file to the main branch of this repository. 
+
+Some helpful links:
+
+[Codespace Basics](https://docs.github.com/en/codespaces/developing-in-a-codespace/developing-in-a-codespace)
+[Opening an existing Codespace](https://docs.github.com/en/codespaces/developing-in-a-codespace/opening-an-existing-codespace)
+[Deleting Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/deleting-a-codespace)
 
 
 ## :octocat: Git and GitHub
