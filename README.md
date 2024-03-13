@@ -20,7 +20,7 @@ Some helpful links:
 
 [Deleting Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/deleting-a-codespace)
 
-The notes below will show you more about git and Github.
+The notes below will show you more about git and Github!
 
 ## :octocat: Git and GitHub
 
